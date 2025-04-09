@@ -1,0 +1,45 @@
+[
+    {
+        "id": 1,
+        "header": "Company Registration",
+        "description": "Enjoy our fast and easy service along with future assistance",
+        "path": "/companyregistration",
+        "icon": "FaBuilding"
+    },
+    {
+        "id": 2,
+        "header": "Trademark Registration",
+        "description": "Our expert-led trademark service is online and hassle-free",
+        "path": "/trademark",
+        "icon": "FaTrademark"
+    },
+    {
+        "id": 3,
+        "header": "Accounting & Taxation",
+        "description": "Management Information system on Accounting & Taxation",
+        "path": "/accounting",
+        "icon": "FaCalculator"
+    },
+    {
+        "id": 4,
+        "header": "Changes & Renewals",
+        "description": "Annual Company Works, & Changes in Company",
+        "path": "/renewals",
+        "icon": "FaExchangeAlt"
+    },
+    {
+        "id": 5,
+        "header": "Business Web Services",
+        "description": "Launch your business online with professional website.",
+        "path": "/webservices",
+        "icon": "FaGlobe"
+    },
+    {
+        "id": 6,
+        "header": "Hire a Lawyer",
+        "description": "Connecting Certified Lawyer with Employers",
+        "path": "/hirelawyer",
+        "icon": "FaUserPlus"
+    }
+    
+]
