@@ -5,7 +5,7 @@ import Lawyers from './lawyers'
 
 const Home = () => {
   return (
-    <div className='min-h-screen'>
+    <div className=''>
         <Animation/>
         <Services/>
         <Lawyers/>

@@ -1,8 +1,13 @@
 import React from 'react'
+import Index from '../../../components/registration/company'
+
 
 const CompanyRegistration = () => {
+  
   return (
-    <div>CompanyRegistration</div>
+    <div className='px-20'>
+      <Index />
+    </div>
   )
 }
 
